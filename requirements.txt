@@ -1,0 +1,21 @@
+# Core Dependencies
+openai>=1.0.0
+openai-agents>=0.6.0  # Note: Package name is 'openai-agents' not 'openai-agents-python'
+python-dotenv>=1.0.0
+
+# Data Models
+pydantic>=2.0.0
+
+# Email Service
+sendgrid>=6.12.3
+
+# Web Interface
+gradio>=4.0.0
+
+# Async Support
+asyncio-throttle>=1.0.0
+
+# Development (optional)
+jupyter>=1.0.0
+ipython>=8.0.0
+
